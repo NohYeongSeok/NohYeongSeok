@@ -1,4 +1,10 @@
-### Hi there 👋
+### 안녕하세요. Hi there 👋
+
+
+창의적이고 열정적인 웹 개발자가 되고싶은 노영석 입니다.
+
+I am Yeongseok Noh who wants to be a creative and passionate web developer.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NohYeongSeok&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NohYeongSeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
