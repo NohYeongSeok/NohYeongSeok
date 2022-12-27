@@ -9,7 +9,7 @@ I am Yeongseok Noh who wants to be a creative and passionate web developer.
 <br><br><br>
 
 <div align=center>
-	<a href="nyoungseok.dothome.co.kr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-67A4AC?style=flat-square&logo=CodersRank
+	<a href="nyoungseok.dothome.co.kr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-#67A4AC?style=flat-square&logo=CodersRank
 &logoColor=white"/></a>
 </a>
 </div>
